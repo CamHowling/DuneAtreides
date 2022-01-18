@@ -7,6 +7,9 @@ export const colourSpacingGuild = '#C3491E';
 export const colourEmperor = '#8A1D16';
 export const colourTleilaxu = '#2C1A48'; 
 export const colourIxian = '#7C7E82';
+export const colourChoam = '#CD2515';
+export const colourRicheseGrey = '#CACCBF'; 
+export const colourRicheseBlue = '#292A30';
 
 //App Background, Headings, and Text
 export const colourHeadingMaj = '#171D29';
