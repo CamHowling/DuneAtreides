@@ -1,7 +1,7 @@
-import { gameDebuggingEnabled, inDevEnvironment } from "@/settings/system";
+import { gameDebuggingEnabled, inDevEnvironment } from '@/settings/system';
 
 export function DevEnvironmentConsoleLog(output: string) {
-    if (gameDebuggingEnabled && inDevEnvironment) {
-        console.log(output);
-    }
+  if (gameDebuggingEnabled && inDevEnvironment) {
+    console.log(output);
+  }
 }
